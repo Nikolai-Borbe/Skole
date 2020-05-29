@@ -26,7 +26,7 @@ HVA TROR DU?
 	
 
 2. Hva kjennetegner de minst utviklede landene?
-		- Etter kolonitiden trakk mange land seg ut. Og etterlatte effektiv administrasjon. De som var igjen manglet kompetanse til å overta styring. 
+		- Etter kolonitiden trakk mange land seg ut. Og etterlatte ikke effektiv administrasjon. De som var igjen manglet kompetanse til å overta styring. 
 		
 		- De blir utnyttet økonomisk. Manglende infrastruktur til å holde på verdien til naturessursene. 
 		
@@ -51,4 +51,25 @@ HVA TROR DU?
 
 5. Fattigdom og byvekst
 	- For mange mennesker flytter til byene, slik at byen blir fylt med fattigdom. 
+
+
+6. Hva er utvikling?
+	-  Utvikling er når et land som blir bedre å bedre å bo i. 
+
+
+7. Mål for utvikling
+	- Det er ikke mulig å måle utviklingen til et land direkte, men vi kan finne visse kjennetegn. 
+		- Fruktbarhet, barnedødelighet, forventet levealder, antall leger per innbygger, alfabetisering, høy levealder, skrivedyktighet, osv. 
+		
+	SFT = Samlet fruktbarhetstall (barn per kvinne)
 	
+	SD = Spedbarnsdødelighet (antall døde før fylte ett år per 1000 fødte)
+	
+
+8. Utviklingsindeksen HDI
+	- Forventet levealder ved fødsel (demografisk indikator)
+	- Alfabetiseringsgrad, samt omfanget av skolegang (sosial indikator)
+	- BNP per innbygger (økonomisk indikator)
+	
+
+9. Sikkerhet og utvikling
